@@ -1,0 +1,2 @@
+# registration pattern
+> no error
